@@ -1,0 +1,15 @@
+.industries_main{
+    justify-content: center;
+    gap:100px;
+}
+
+.industries_img img{
+    width: 100%;
+    height: auto;
+}
+
+.industries_img p{
+    color: rgb(222,190,22);
+    font-size: 20px;
+    margin-top: 15px;
+}
